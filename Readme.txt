@@ -1,0 +1,1 @@
+Hello there!!! This is the repo for praticing git's basic commands.
